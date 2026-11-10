@@ -23,8 +23,7 @@ Main features:
 ## Installation
 
 ```bash
-git clone <git@rendu-git.etna-alternance.net:module-10597/activity-57715/group-1086232.git>
-cd blog-manager
+git clone https://github.com/asmabh04/blog-manager.gitcd blog-manager
 npm install
 ```
 
